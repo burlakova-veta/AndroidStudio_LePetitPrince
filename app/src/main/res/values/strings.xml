@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Le Petit Prince</string>
+    <string name="button_morning">Утро</string>
+    <string name="button_day">День</string>
+    <string name="button_evening">Вечер</string>
+    <string name="button_night">Ночь</string>
+    <string name="NOTIFICATION_CHANNEL_ID">application_notification_id</string>
+    <string name="NOTIFICATION_CHANNEL_NAME">Application notification channel</string>
+    <string name="NOTIFICATION_CHANNEL_DESCRIPTION">Channel for application notification\n</string>
+    <string name="prince">Маленький принц</string>
+</resources>
